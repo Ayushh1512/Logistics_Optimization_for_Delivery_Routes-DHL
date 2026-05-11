@@ -45,3 +45,12 @@ The project aims to:
 
 ● Analyze agent- and warehouse-level performance.
 
+# Datasets:
+
+- <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/DHL_Shipments%20.xlsx">Dataset1</a>
+- <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/DHL_delivery_agents.xlsx">Dataset2</a>
+- <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/DHL_orders.xlsx">Dataset3</a>
+- <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/DHL_routes%20.xlsx">Dataset4</a>
+- <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/DHL_warehouses%20.xlsx">Dataset5</a>
+
+
