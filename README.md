@@ -158,3 +158,26 @@ PPT Submission
 
 <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/Presentation%20project%20SQL.pdf">PPT</a>
 
+
+
+# Insights:
+
+- Traffic is the dominant cause at 48.6% of all delay events across all 20 routes, with weather as a secondary contributor. On critical routes like R002 and R003, both causes produce nearly identical avg delay hours — meaning neither can be isolated as "the fix."
+  
+- Hub congestion, not distance, drives delays. R003 (Singapore→Hong Kong) is only 885 km but averages 32.18 hrs of delay — the worst efficiency ratio (14.55) in the network. In contrast, R015 (Amsterdam→Istanbul, 606 km) averages only 15.19 hrs. The bottleneck is hub processing, not the flight/transit itself.
+  
+- All warehouses are severely under capacity (max 10.3% utilization), yet delay rates exceed 89% across all 10. This definitively rules out capacity as the cause — the problem is process design, SOP compliance, and hub-level congestion management.
+  
+- The top 10 most delayed routes are geographically concentrated around the Dubai, Shanghai, Singapore, Istanbul, and Hong Kong hub cluster — accounting for 80%+ of critical delays.
+  
+- Critical routes (>30 hrs avg delay, <8% on-time): R002, R007, R020, R003, R008. These need immediate intervention — dedicated fast-track lanes, pre-clearance arrangements, and traffic-time-aware scheduling.
+  
+- The three best efficiency candidates for optimization are R003 (Singapore→HK, efficiency ratio 14.55), R015 (Amsterdam→Istanbul, 21.17), and R008 (HK→Tokyo, 35.75) — short distances with disproportionately high delays, meaning even small process improvements yield large efficiency gains.
+  
+- Gold standard routes R001 (Memphis→Frankfurt, 6.83 hrs delay) and R009 (Toronto→Seoul, 9.72 hrs) should be studied and replicated. Their routing structure, agent assignment patterns, and hub management practices are the closest thing the network has to a proven playbook.
+  
+- The most striking finding: top 5 agents average 4.42 rating and 2.34 years experience with 20.34% on-time. Bottom 5 agents average 4.52 rating and 2.4 years experience with 0% on-time. The numbers are essentially identical — individual agent performance is not the variable. Route assignment and systemic hub delays are dictating outcomes, not agent skill or experience.
+  
+- The project correctly identifies this and recommends system support over performance management. The four intervention categories applied are: route-specific training (experienced but underperforming), workload reduction + mentoring (overloaded freshers), standard performance review (mid-range cases), and soft skills training (low-rating outlier like A0047 Jamie Jones at 3.9 rating).
+  
+- On the warehouse side, W009 Madrid (14.3 hrs avg delay) and W002 Singapore (15.13 hrs) stand out as best performers despite low utilization — their manager practices and throughput workflows should be documented and shared across the network. W004 Shanghai (25.88 hrs) and W003 London (25.54 hrs) are the priority improvement targets.
