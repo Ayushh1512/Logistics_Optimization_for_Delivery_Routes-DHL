@@ -148,3 +148,13 @@ PPT Submission
 ● Include a final slide summarizing key insights and business recommendations for DHL logistics optimization.
 
 ## Task 9: Video Submission
+
+
+# SQL Code File:
+
+- <a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/SQL%20CODE%20FILE.zip">File</a>
+
+# SQL PPT:
+
+<a href="https://github.com/Ayushh1512/Logistics_Optimization_for_Delivery_Routes-DHL/blob/main/Presentation%20project%20SQL.pdf">PPT</a>
+
